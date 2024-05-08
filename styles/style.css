@@ -226,11 +226,11 @@ fieldset {
   outline: 1px solid #fff;
 }
 
-.search-form__checkbox:focus {
+label:focus {
   outline: none;
 }
 
-.search-form__checkbox:focus-visible {
+label:has(:focus-visible) {
   outline: 1px solid #fff;
 }
 
