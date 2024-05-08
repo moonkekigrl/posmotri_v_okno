@@ -43,7 +43,7 @@ ol {
   justify-content: center;
   align-items: end;
   gap: 30px;
-  padding: 133px 0 0;
+  padding: 133px 30px;
 }
 
 .result__video {
